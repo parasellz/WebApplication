@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://lionairthai.vtmel-web03.dyndns.org/LionAirThaiTAAPI/FlightMatrixService.asmx?wsdl" docRef="http://lionairthai.vtmel-web03.dyndns.org/LionAirThaiTAAPI/FlightMatrixService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://lionairthai.vtmel-web03.dyndns.org/LionAirThaiTAAPI/FlightMatrixService.asmx" xmlns:q1="http://www.vedaleon.com/webservices" binding="q1:FlightMatrixServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://lionairthai.vtmel-web03.dyndns.org/LionAirThaiTAAPI/FlightMatrixService.asmx" xmlns:q2="http://www.vedaleon.com/webservices" binding="q2:FlightMatrixServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

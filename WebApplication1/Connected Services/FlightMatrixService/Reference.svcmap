@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="aac5ba35-9427-4522-9f33-f20c7b05a94d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://lionairthai.vtmel-web03.dyndns.org/LionAirThaiTAAPI/FlightMatrixService.asmx" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FlightMatrixService.wsdl" MetadataType="Wsdl" ID="9b791bcd-5c89-4221-813f-264def884e6e" SourceId="1" SourceUrl="http://lionairthai.vtmel-web03.dyndns.org/LionAirThaiTAAPI/FlightMatrixService.asmx?wsdl" />
+    <MetadataFile FileName="FlightMatrixService.disco" MetadataType="Disco" ID="f2ddbabc-5f23-41ad-be83-b262c9a1ea1c" SourceId="1" SourceUrl="http://lionairthai.vtmel-web03.dyndns.org/LionAirThaiTAAPI/FlightMatrixService.asmx?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
