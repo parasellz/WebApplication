@@ -20,7 +20,7 @@ namespace WebApplication1
         [WebMethod]
         public string HelloWorld()
         {
-            //Test Upload 1
+            //Test Upload 2
             return "Hello World";
         }
 
